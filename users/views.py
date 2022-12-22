@@ -27,3 +27,13 @@ from .models import *
 
 def home(request):
     return render(request, 'users/home.html')
+
+# About View Function
+
+def about(request):
+    return render(request, 'users/about.html')
+
+# Contact View Funcction
+
+def contact(request):
+    return render(request, 'users/contact.html')

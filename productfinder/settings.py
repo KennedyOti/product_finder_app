@@ -44,9 +44,13 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     'jazzmin',
 >>>>>>> 692f5b27f746dfbac0449ffd56b67609716bee60
+=======
+    #'jazzmin',
+>>>>>>> c1825ff (homepage commit)
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
